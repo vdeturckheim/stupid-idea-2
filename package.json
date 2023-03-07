@@ -1,0 +1,20 @@
+{
+  "name": "stupid-idea-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdeturckheim/stupid-idea-2.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vdeturckheim/stupid-idea-2/issues"
+  },
+  "homepage": "https://github.com/vdeturckheim/stupid-idea-2#readme"
+}
